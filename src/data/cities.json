@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "cityName": "Canencia",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-11-09T18:43:07.653Z",
+      "notes": "",
+      "position": {
+        "lat": "40.91870134596723",
+        "lng": "-3.7669372558593754"
+      },
+      "id": 2
+    },
+    {
+      "cityName": "Canencia",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-11-09T18:43:17.661Z",
+      "notes": "",
+      "position": {
+        "lat": "40.914550362677204",
+        "lng": "-3.7614440917968754"
+      },
+      "id": 3
+    },
+    {
+      "cityName": "Sabinanigo",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-11-10T17:41:41.290Z",
+      "notes": "",
+      "position": {
+        "lat": "42.42345651793833",
+        "lng": "-0.30761718750000006"
+      },
+      "id": 4
+    }
+  ]
+}
